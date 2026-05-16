@@ -16,6 +16,7 @@ Fill in your details, add line items, and download a formatted PDF invoice insta
 ## Screenshots
 
 <img width="1707" height="850" alt="image" src="https://github.com/user-attachments/assets/b8fbb34b-13fa-4829-95a2-60c2d9215d0f" />
+<img width="1817" height="842" alt="image" src="https://github.com/user-attachments/assets/b840c242-632d-423d-84f9-e3e7368e015c" />
 
 
 ## How to Run Locally
