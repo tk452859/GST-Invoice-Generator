@@ -4,7 +4,7 @@ A free, professional GST-compliant invoice generator built with Python and Strea
 Fill in your details, add line items, and download a formatted PDF invoice instantly.
 
 ## 🔴 Live Demo
-👉 [Try it here](YOUR_STREAMLIT_LINK)
+👉 [Try it here](https://gst-invoice-generator-g3wzw7ihgmzjk3bbnxih6a.streamlit.app/)
 
 ## Features
 - CGST + SGST and IGST support
